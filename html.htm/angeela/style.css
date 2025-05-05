@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: cetner;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+#formm{
+    height: 25rem;
+    margin-top: 20px;
+    width: 25rem;
+    background: lightcoral;
+    text-align: center;
+}
+.text{
+    margin: 8rem 0;
+    padding: 50px;
+}
+h1{
+    margin: 20px;
+}
